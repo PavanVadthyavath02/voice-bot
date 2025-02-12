@@ -1,7 +1,4 @@
 
-
-
-
 from transformers import pipeline
 
 # Load a pre-trained text classification model (fine-tune later for custom intents)
